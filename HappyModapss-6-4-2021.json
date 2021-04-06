@@ -1,0 +1,200 @@
+{
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "facebook",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "266793474810569_266793514810565",
+        "InterstitialFacebook": "266793474810569_270609664428950",
+        "NativeFacebook": "266793474810569_270609804428936"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Happymod",
+        "image": "https://unwished-for-seaman.000webhostapp.com/pictures/Happyamine/how%20to.png"
+      },
+      {
+        "title": "How to install happymod",
+        "image": "https://unwished-for-seaman.000webhostapp.com/pictures/Happyamine/howtoinstall.png"
+      },
+      {
+        "title": "How to Use HappyMod",
+        "image": "https://unwished-for-seaman.000webhostapp.com/pictures/Happyamine/how%20to%20use.png"
+      },
+      {
+        "title": "Features",
+        "image": "https://unwished-for-seaman.000webhostapp.com/pictures/Happyamine/Features.png"
+      },
+      {
+        "title": "Is HappyMod Safe",
+        "image": "https://unwished-for-seaman.000webhostapp.com/pictures/Happyamine/safty.png"
+      },
+      {
+        "title": "Errors",
+        "image": "https://unwished-for-seaman.000webhostapp.com/pictures/Happyamine/errors.png"
+      }
+    
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "About Happymod:",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://unwished-for-seaman.000webhostapp.com/pictures/Happyamine/how%20to.png",
+        "text": "It is a tool that lets you install tons of modified APKs in your smartphone. The HappyMod interface looks like a basic marketplace where you'll see different apps organized by games or tools. ... HappyMod is a really useful tool if you want to download patched apps that you can't find in the normal marketplaces.\n\nIf you regularly download games to your Android smartphone but it’s hard for you to pass certain levels or unlock some rewards because you have to pay for them, then check out HappyMod. It is a tool that lets you install tons of modified APKs in your smartphone.\n\nHappyMod is a really useful tool if you want to download patched apps that you can’t find in the normal marketplaces.\n\nThe HappyMod interface looks like a basic marketplace where you’ll see different apps organized by games or tools. On the other hand, you’ll also find a window where you can find APKs that have been uploaded to the catalog recently.",
+        "isNative": "true"
+      
+      }
+    ],
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "How to install happymod:",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://unwished-for-seaman.000webhostapp.com/pictures/Happyamine/howtoinstall.png",
+        "text": "Open the Android emulator's application list and add HappyMod. apk file to the list. Now, open the Happy Mod application on your PC using the Android emulator. Install the app and start downloading mods.\n\n-First, you must give permission for third-party apps to be installed on your device; open Settings > Security\n\n-Find and enable the Unknown Sources option and close settings.\n\n-Now you can download the HappyMod APK to your device, using the download button above.\n\n-Ignore the security prompt and tap on OK.\n\n-Go to your downloads folder and tap on the file.\n\n-When the installation is finished, HappyMod is ready for use.",
+        "isNative": "true"
+      
+      }
+    ],
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "How to Use HappyMod:",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://unwished-for-seaman.000webhostapp.com/pictures/Happyamine/how%20to%20use.png",
+        "text": "Tap on the app icon to open HappyMod, it will look like an app store, and all the content is in categories, such as Mods, Apps, Tools, etc.\n\n-Choose the category, find a mod, and tap on it to start the download.\n\n-Another window would show you all the latest additions.\n\n-HappyMod is the latest in a long line of unofficial app stores, but this one is a little different from the others. HappyMod offers a whole host of apps and games, all modified, providing premium features and subscriptions for free, and loads of other features and functionalities. HappyMod is only available for Android users right now and is very simple to download.",
+        "isNative": "true"
+      
+      }
+    ],
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Features:",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://unwished-for-seaman.000webhostapp.com/pictures/Happyamine/Features.png",
+        "text": "All the Latest Mods – loads of mods for Android.\n\nSafe and Fast – every mod is tested with a virus scanner before going into the app catalog to make sure it is safe, and you get to take advantage of superfast downloads.\n\nMultiple Languages – HappyMod has support for multiple languages, including Romanian, French, English, traditional and simplified Chinese, Portuguese, Arabic, Indonesian, Russian, Spanish, Italian, Vietnamese, Thai and German.\n\nStop and Start – any download can be paused and restarted whenever you want.",
+        "isNative": "true"
+      
+      }
+    ],
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Is HappyMod Safe:",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://unwished-for-seaman.000webhostapp.com/pictures/Happyamine/safty.png",
+        "text": "The developers of HappyMod use good old fashioned testing and AI to ensure that mods are safe to use. Every mod that is uploaded to the catalog is there for users to test, and the developers only ask that you comment on how good the mod is, whether there are any problems, what doesn’t work and what can be improved. They then use those comments to move the best mods to the top of the list. You can help by testing mods and telling everyone what you think of them and by uploading any mods that you find too.\n\nThe HappyMod developers put a lot of work and effort into ensuring you get a safe and happy experience – do only use the official download links though; they have been tested for security.",
+        "isNative": "true"
+      
+      }
+    ],
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Errors:",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://unwished-for-seaman.000webhostapp.com/pictures/Happyamine/errors.png",
+        "text": "If you are using an android phone for quite some time, you must have encountered errors related to android ui while installing an app, or after you performed a system UI update at least once, the error goes something like this: Unfortunately, System UI has stopped .The error is very common and can have various causes.\n\nThis error is also very common with your android operating system update and upgrades, you must have seen errors like, system ui kitkat error, unfortunately system ui has stopped marshmallow or error lollipop system ui could not be updated.",
+        "isNative": "true"
+      
+      }
+    ]
+  }
+}
