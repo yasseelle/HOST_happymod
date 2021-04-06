@@ -21,11 +21,11 @@
     "items": [
       {
         "title": "Happymod",
-        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/Happymod.jpg"
+        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20Use%20HappyMod.jpg"
       },
       {
         "title": "How to install happymod",
-        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20install%20happymod.jpg"
+        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20Use%20HappyMod.jpg"
       },
       {
         "title": "How to Use HappyMod",
@@ -33,11 +33,11 @@
       },
       {
         "title": "Features",
-        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/Features.jpg"
+        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20Use%20HappyMod.jpg"
       },
       {
         "title": "Is HappyMod Safe",
-        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/Is%20HappyMod%20Safe.png"
+        "image": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20Use%20HappyMod.jpg"
       },
       {
         "title": "Errors",
@@ -65,7 +65,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/Happymod.jpg",
+        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20Use%20HappyMod.jpg",
         "text": "It is a tool that lets you install tons of modified APKs in your smartphone. The HappyMod interface looks like a basic marketplace where you'll see different apps organized by games or tools. ... HappyMod is a really useful tool if you want to download patched apps that you can't find in the normal marketplaces.\n\nIf you regularly download games to your Android smartphone but it’s hard for you to pass certain levels or unlock some rewards because you have to pay for them, then check out HappyMod. It is a tool that lets you install tons of modified APKs in your smartphone.\n\nHappyMod is a really useful tool if you want to download patched apps that you can’t find in the normal marketplaces.\n\nThe HappyMod interface looks like a basic marketplace where you’ll see different apps organized by games or tools. On the other hand, you’ll also find a window where you can find APKs that have been uploaded to the catalog recently.",
         "isNative": "true"
       
@@ -90,7 +90,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20install%20happymod.jpg",
+        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20Use%20HappyMod.jpg",
         "text": "Open the Android emulator's application list and add HappyMod. apk file to the list. Now, open the Happy Mod application on your PC using the Android emulator. Install the app and start downloading mods.\n\n-First, you must give permission for third-party apps to be installed on your device; open Settings > Security\n\n-Find and enable the Unknown Sources option and close settings.\n\n-Now you can download the HappyMod APK to your device, using the download button above.\n\n-Ignore the security prompt and tap on OK.\n\n-Go to your downloads folder and tap on the file.\n\n-When the installation is finished, HappyMod is ready for use.",
         "isNative": "true"
       
@@ -140,7 +140,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/Features.jpg",
+        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20Use%20HappyMod.jpg",
         "text": "All the Latest Mods – loads of mods for Android.\n\nSafe and Fast – every mod is tested with a virus scanner before going into the app catalog to make sure it is safe, and you get to take advantage of superfast downloads.\n\nMultiple Languages – HappyMod has support for multiple languages, including Romanian, French, English, traditional and simplified Chinese, Portuguese, Arabic, Indonesian, Russian, Spanish, Italian, Vietnamese, Thai and German.\n\nStop and Start – any download can be paused and restarted whenever you want.",
         "isNative": "true"
       
@@ -165,7 +165,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/Is%20HappyMod%20Safe.png",
+        "image_link": "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/images/How%20to%20Use%20HappyMod.jpg",
         "text": "The developers of HappyMod use good old fashioned testing and AI to ensure that mods are safe to use. Every mod that is uploaded to the catalog is there for users to test, and the developers only ask that you comment on how good the mod is, whether there are any problems, what doesn’t work and what can be improved. They then use those comments to move the best mods to the top of the list. You can help by testing mods and telling everyone what you think of them and by uploading any mods that you find too.\n\nThe HappyMod developers put a lot of work and effort into ensuring you get a safe and happy experience – do only use the official download links though; they have been tested for security.",
         "isNative": "true"
       
