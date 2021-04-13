@@ -1,5 +1,4 @@
-{ 
-  "Wallpaper": [
+ [
       {
         "image" : "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/wallpapers-all/i%20(1).jpg"
       },
@@ -380,6 +379,7 @@
       },
     {
         "image" : "https://raw.githubusercontent.com/yasseelle/HOST_happymod/main/wallpapers-all/i%20(122).jpg"
-      }
-     ]
-  }
+      
+    }
+]
+
