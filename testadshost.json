@@ -13,7 +13,11 @@
         "NativeFacebook": "699316227430820_708376849858091",
         
         "banner_unity" : "banner1",
-        "unityGameID" : "1234567"
+        "unityGameID" : "1234567",
+        "native_unity": "",
+        "inter_unity" : "video",
+        "testMode" : "false"
+        
       }
      ]
   }
