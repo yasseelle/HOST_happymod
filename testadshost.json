@@ -1,7 +1,7 @@
 { 
   "AdsController": [
       {
-        "NetworkAds": "mix",
+        "NetworkAds": "unity",
         "AdMobId": "pub-3940256099942544",
 
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
@@ -10,7 +10,10 @@
 
         "BannerFacebook": "699316227430820_708375996524843",
         "InterstitialFacebook": "699316227430820_708376616524781",
-        "NativeFacebook": "699316227430820_708376849858091"
+        "NativeFacebook": "699316227430820_708376849858091",
+        
+        "banner_unity" : "banner1",
+        "unityGameID" : "1234567"
       }
      ]
   }
