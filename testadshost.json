@@ -12,11 +12,11 @@
         "InterstitialFacebook": "699316227430820_708376616524781",
         "NativeFacebook": "699316227430820_708376849858091",
         
-        "banner_unity" : "banner1",
-        "unityGameID" : "1234567",
+        "banner_unity" : "banner",
+        "unityGameID" : "3416089",
         "native_unity": "",
-        "inter_unity" : "video",
-        "testMode" : "false"
+        "inter_unity" : "interstitial",
+        "testMode" : "true"
         
       }
      ]
