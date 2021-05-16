@@ -16,7 +16,10 @@
         "inter_unity" : "Interstitial_Android",
         "unityGameID" : "4130571",
         "native_unity": "",
-        "testMode" : "true"
+        "testMode" : "true",
+        
+        "hw_banner" : "testw6vs28auh3",
+        "hw_inter" : "testw6vs28auh3"
         
       }
      ]
