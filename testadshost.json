@@ -14,6 +14,7 @@
         
         "banner_unity" : "Banner_Android",
         "inter_unity" : "Interstitial_Android",
+        "reward_ad" : "Rewarded_Android"
         "unityGameID" : "4130571",
         "native_unity": "",
         "testMode" : "true",
